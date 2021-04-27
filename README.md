@@ -2,13 +2,20 @@
 A simple database created in C++ that creates and stores pointers to student objects. 
 
 List of source and header files
-Source:                 Header:
-  Cource.cc               Course.h
+Source:                 
+  Cource.cc               
   main.cc
-  Storage.cc              Storage.h
-  Student.cc              Student.h
-  Control.cc              Control.h
-  View.cc                 View.h
+  Storage.cc              
+  Student.cc              
+  Control.cc              
+  View.cc
+  
+  Header:
+  Course.h
+  Storage.h
+  Student.h
+  Control.h
+  View.h
 
 Data:
   in.txt
